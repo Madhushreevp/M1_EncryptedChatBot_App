@@ -1,4 +1,7 @@
 # M1_EncryptedChatBot_App
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/28c476b1f4174dbeba8d34cb0fa6cf09)](https://app.codacy.com/gh/Madhushreevp/M1_EncryptedChatBot_App?utm_source=github.com&utm_medium=referral&utm_content=Madhushreevp/M1_EncryptedChatBot_App&utm_campaign=Badge_Grade_Settings)
+
 Nowadays, real time communication is increasingly rapidly. The popularity of this communication is mostly seen through messages and chats, whether be it personal messages or confidential emails. 
 Thus, there is a need of some protection system which could prevent other party from intruding the privacy of the users. 
 Encrypted Chatbot is such project where two or more authorized users can have chats and messages with no invasion of external party. 
