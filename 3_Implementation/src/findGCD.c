@@ -2,8 +2,7 @@
 
 long int findGCD(long int e,long int fn)
  {
-  long int c=e,d=fn;
-  long int r;
+  long int c=e,d=fn,r;
   while(d!=0) {
     r=c%d;
     c=d;
