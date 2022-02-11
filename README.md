@@ -8,4 +8,5 @@ The encrypted message is called as cipher text.
 For encryption and decryption both the users will require a Key, which might be public or private.
 The key needs to be created, stored, and offered robust end-to-end secure encryption. Therefore, this project will create ciphertexts and keys taking plain texts as input. 
 Have a safe space for your chats!
+
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9da9b119b6b1421488938b432a97397b)](https://www.codacy.com/gh/Madhushreevp/M1_EncryptedChatBot_App/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Madhushreevp/M1_EncryptedChatBot_App&amp;utm_campaign=Badge_Grade)
